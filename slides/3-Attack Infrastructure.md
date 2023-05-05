@@ -1,6 +1,6 @@
 # Attack Infrastructure
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63230d22-41f0-4c0e-951d-73b39b79115a/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/43555923/59543161-56a38c00-8ebe-11e9-8eb2-ecea457976d1.png)
 
 ## Multiplayer mode
 
